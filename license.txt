@@ -1,0 +1,19 @@
+Apache License
+Apache License
+Apache Software Foundation Logo (2016).svg
+Logo de la Apache Software Foundation.
+Autor 	Apache Software Foundation
+Versión 	2.0
+Edición 	Apache Software Foundation
+Fecha de publicación 	Enero de 2004 (12 años)
+Compatible con DFSG 	Audited article of limited subject matter Sí1
+aprobado FSF 	Audited article of limited subject matter Sí2
+Aprobada por OSI 	Audited article of limited subject matter Si3
+Compatible GPL 	Audited article of limited subject matter SíNota 1
+Copyleft 	Unknown-Class article No5
+Utilizable junto con otras licencias 	Audited article of limited subject matter Sí
+[editar datos en Wikidata]
+
+La licencia Apache (Apache License o Apache Software License para versiones anteriores a 2.0) es una licencia de software libre permisiva creada por la Apache Software Foundation (ASF).6 La licencia Apache (/ ?'pæt?i/) (con versiones 1.0, 1.1 y 2.0) requiere la conservación del aviso de derecho de autor y el descargo de responsabilidad, pero no es una licencia copyleft, ya que no requiere la redistribución del código fuente cuando se distribuyen versiones modificadas.
+
+Al igual que otras licencias de software libre, todo el software producido por la ASF o cualquiera de sus proyectos está desarrollado bajo los términos de esta licencia, es decir, la licencia permite al usuario del software de la libertad de usar el software para cualquier propósito, para distribuirlo, modificarlo y distribuir versiones modificadas del software, bajo los términos de la licencia, sin preocuparse de las regalías.
