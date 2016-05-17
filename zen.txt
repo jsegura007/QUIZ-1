@@ -1,0 +1,1 @@
+El Zen de Python, por Tim Peters (Traduccion - Español) Los casos especiales no son lo suficientemente especial como para romper las reglas. Ante la ambigüedad, rechaza la tentación de adivinar. Debería haber una - y preferiblemente sólo una - manera obvia de hacerlo.

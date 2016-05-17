@@ -1,0 +1,11 @@
+Referencias:
+
+    Principales novedades en Python:
+        Python 2.X: Python 2.0 - Python 2.1 - Python 2.2 - Python 2.3 - Python 2.4 - Python 2.5 - Python 2.6 - Python 2.7
+        Python 3.X: Python 3.0 - Python 3.1 - Python 3.2 - Python 3.3 - Python 3.4 - Python 3.5
+    Sobre los cambios en Python 3 (Nick Coghlan)
+    Bibliotecas actualizadas a Python 3: Python 3 Wall of Superpowers - Python 3 Readiness
+    Python Enhancement Proposals (PEP):
+        Python 2.X release schedules: Python 2.6 - Python 2.7 - Python 2.8
+        Python 3.X release schedules: - Python 3.0 - Python 3.1 - Python 3.2 - Python 3.3 - Python 3.4 - Python 3.5 - Python 3.6
+    Debian Python Policy
